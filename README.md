@@ -1,24 +1,18 @@
+</div><img width="500" height="288" alt="banner" src="https://github.com/user-attachments/assets/c748a456-cd2a-4837-8abd-913574c4ccb6" />![Uploading banner.gif…]()
+
 <div align="center">
 
 <img src="./assets/banner.gif" width="100%" />
 
 </div>
 
-## ~$ whoami
+## ~$ about me
 
-Software Developer in progress -- Backend & Systems enthusiast -- Cybersecurity explorer
-Estudante na **42 Porto**, a fazer a transição para engenharia de software, com foco em backend, sistemas, cibersegurança e IA.
+Software Developer in progress | Currently Studying @ 42 Porto
 
 ## ~$ techstack
 
-![Skills](https://skillicons.dev/icons?i=python,c,html,css,linux,bash,git)
-
-## ~$ current-goals
-
-- [ ] A completar o **Common Core** da 42 Porto
-- [ ] A aprofundar **C** e programação de sistemas
-- [ ] A explorar **cibersegurança**
-- [ ] A construir projetos de **backend**
+![Skills](https://skillicons.dev/icons?i=python,c,linux,bash,git)
 
 ## ~$ featured-projects
 
@@ -49,5 +43,4 @@ Estudante na **42 Porto**, a fazer a transição para engenharia de software, co
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
 
-</div><img width="500" height="288" alt="banner" src="https://github.com/user-attachments/assets/c748a456-cd2a-4837-8abd-913574c4ccb6" />![Uploading banner.gif…]()
 
