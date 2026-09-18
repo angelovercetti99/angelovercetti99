@@ -1,4 +1,4 @@
-</div><img width="500" height="288" alt="banner" src="https://github.com/user-attachments/assets/c748a456-cd2a-4837-8abd-913574c4ccb6" />![Uploading banner.gif…]()
+</div><img width="500" height="288" alt="banner" src="https://github.com/user-attachments/assets/c748a456-cd2a-4837-8abd-913574c4ccb6" 
 
 <div align="center">
 
@@ -19,8 +19,8 @@ Software Developer in progress | Currently Studying @ 42 Porto
 <!-- Substitui pelos teus repositórios reais -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [nome-do-projeto](https://github.com/angelovercetti99) | Breve descrição | `C` |
-| [nome-do-projeto](https://github.com/angelovercetti99) | Breve descrição | `Python` |
+| [libft](https://github.com/angelovercetti99) | Breve descrição | `C` |
+| [root](https://github.com/angelovercetti99) | Breve descrição | `Python` |
 
 ## ~$ github-stats
 
@@ -36,8 +36,8 @@ Software Developer in progress | Currently Studying @ 42 Porto
 ## ~$ contact
 
 <!-- Substitui pelos teus contactos reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teu-user)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelomarques96/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](angelosobralmarques@gmail.com)
 
 <div align="center">
 
