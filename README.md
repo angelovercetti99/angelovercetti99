@@ -19,8 +19,8 @@ Software Developer in progress | Currently Studying @ 42 Porto
 <!-- Substitui pelos teus repositórios reais -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [libft](https://github.com/angelovercetti99) | Breve descrição | `C` |
-| [root](https://github.com/angelovercetti99) | Breve descrição | `Python` |
+| [libft](https://github.com/angelovercetti99) | Library from scratch | `C` |
+| [born2beroot](https://github.com/angelovercetti99) | Your own OS  | `C` |
 
 ## ~$ github-stats
 
