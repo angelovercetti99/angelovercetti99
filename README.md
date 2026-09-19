@@ -1,46 +1,52 @@
-</div><img width="500" height="288" alt="banner" src="https://github.com/user-attachments/assets/c748a456-cd2a-4837-8abd-913574c4ccb6" 
-
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" />
+<img src="https://github.com/user-attachments/assets/c748a456-cd2a-4837-8abd-913574c4ccb6" alt="Pixel art banner" width="500" />
 
 </div>
 
 ## ~$ about me
 
-Software Developer in progress | Currently Studying @ 42 Porto
+Student at 42 Porto, learning software development through peer-to-peer projects: no teachers, just docs, man pages and other students. I work mostly in C on Linux, and I like understanding how things work before I rely on them.
+
+**Right now:** working through the 42 Common Core.
+
+<!--
+**Looking for:** internships and junior roles in software development.
+-->
 
 ## ~$ techstack
 
-![Skills](https://skillicons.dev/icons?i=python,c,linux,bash,git)
+![Skills](https://skillicons.dev/icons?i=c,linux,bash,python,git)
 
 ## ~$ featured-projects
 
-<!-- Substitui pelos teus repositórios reais -->
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [libft](https://github.com/angelovercetti99) | Library from scratch | `C` |
-| [born2beroot](https://github.com/angelovercetti99) | Your own OS  | `C` |
+- **[libft](https://github.com/angelovercetti99/42_common_core/tree/main/libft)** `C`
+  - My own C library, rebuilt from scratch.
+  - *Learned:* memory management with malloc and free, pointers, linked lists, Makefiles.
+
+- **[born2beroot](https://github.com/angelovercetti99/42_common_core/tree/main/born2beroot)** `Linux` `Bash`
+  - A hardened Linux server running in a virtual machine.
+  - *Learned:* disk partitioning with LVM, SSH, firewall rules, sudo and password policies, a monitoring script.
+
+## ~$ how-i-learn
+
+42 has no teachers. Every project is peer-reviewed: I explain my code to other students and I review theirs. It forces me to read the docs and to really understand what I wrote.
 
 ## ~$ github-stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelovercetti99&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelovercetti99&theme=radical&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelovercetti99&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=angelovercetti99&theme=radical&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
 ## ~$ contact
 
-<!-- Substitui pelos teus contactos reais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelomarques96/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](angelosobralmarques@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelosobralmarques@gmail.com)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" alt="" />
 
-
+</div>
