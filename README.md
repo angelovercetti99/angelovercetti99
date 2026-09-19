@@ -6,11 +6,13 @@
 
 ## ~$ about me
 
-Student at 42 Porto, learning software development through peer-to-peer projects: no teachers, just docs, man pages and other students. I work mostly in C on Linux, as well as Python. and I like understanding how things work before I rely on them.
+Student at 42 Porto, learning software development through peer-to-peer projects: no teachers, just docs, man pages and other students. I work in C and Python on Linux, and I like understanding how things work before I rely on them.
 
 **Right now:** working through the 42 Common Core.
 
-**Looking for:** internships and junior roles in software development.
+**The plan:** finish the Common Core, do an internship, specialize, then move into a software engineer role.
+
+Always happy to talk with other developers and teams.
 
 ## ~$ techstack
 
