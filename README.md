@@ -6,17 +6,24 @@
 
 ## ~$ about me
 
-Student at 42 Porto, learning software development through peer-to-peer projects: no teachers, just docs, man pages and other students. I work mostly in C on Linux, and I like understanding how things work before I rely on them.
+Student at 42 Porto, learning software development through peer-to-peer projects: no teachers, just docs, man pages and other students. I work mostly in C on Linux, as well as Python. and I like understanding how things work before I rely on them.
 
 **Right now:** working through the 42 Common Core.
 
-<!--
 **Looking for:** internships and junior roles in software development.
--->
 
 ## ~$ techstack
 
-![Skills](https://skillicons.dev/icons?i=c,linux,bash,python,git)
+**Using**
+
+![Using](https://skillicons.dev/icons?i=c,linux,bash,python,git)
+
+**Learning**
+
+![Learning](https://skillicons.dev/icons?i=cpp,docker,postgres,azure,githubactions)
+
+`Unix systems programming` `Concurrency` `TCP/IP` `HTTP` `SQL`
+
 
 ## ~$ featured-projects
 
