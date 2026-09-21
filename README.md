@@ -6,26 +6,22 @@
 
 ## ~$ about me
 
-Student at 42 Porto, learning software development through peer-to-peer projects: no teachers, just docs, man pages and other students. I work in C and Python on Linux, and I like understanding how things work before I rely on them.
-
-**Right now:** working through the 42 Common Core.
-
-**The plan:** finish the Common Core, do an internship, specialize, then move into a software engineer role.
-
-Always happy to talk with other developers and teams.
+Software Developer in progress - Systems & Infrastructure focus - Future DevOps Engineer.
+Student @ 42 Porto. Learning through a peer-to-peer, project-based methodology with no teachers, just real problems solved alongside other students.
+Currently on the Common Core, heading towards the Advanced Unix and Networking specialization, building a path towards DevOps/SRE work.
+Looking for remote opportunities where I can keep learning and take ownership of infrastructure and automation.
 
 ## ~$ techstack
 
-**Using**
+![Skills](https://skillicons.dev/icons?i=c,python,bash,linux,git,docker,kubernetes,terraform,ansible,azure,sql)
 
-![Using](https://skillicons.dev/icons?i=c,linux,bash,python,git)
+## ~$ current-goals
 
-**Learning**
-
-![Learning](https://skillicons.dev/icons?i=cpp,docker,postgres,azure,githubactions)
-
-`Unix systems programming` `Concurrency` `TCP/IP` `HTTP` `SQL`
-
+- [ ] Finish the Common Core at 42 Porto
+- [ ] Start the Advanced Unix and Networking specialization
+- [ ] Get comfortable with Docker and start learning Kubernetes
+- [ ] Get the Azure Fundamentals (AZ-900) certification
+- [ ] Build a portfolio project with a full CI/CD pipeline
 
 ## ~$ featured-projects
 
@@ -36,10 +32,6 @@ Always happy to talk with other developers and teams.
 - **[born2beroot](https://github.com/angelovercetti99/42_common_core/tree/main/born2beroot)** `Linux` `Bash`
   - A hardened Linux server running in a virtual machine.
   - *Learned:* disk partitioning with LVM, SSH, firewall rules, sudo and password policies, a monitoring script.
-
-## ~$ how-i-learn
-
-42 has no teachers. Every project is peer-reviewed: I explain my code to other students and I review theirs. It forces me to read the docs and to really understand what I wrote.
 
 ## ~$ github-stats
 
